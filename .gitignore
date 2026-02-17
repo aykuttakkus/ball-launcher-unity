@@ -99,3 +99,9 @@ InitTestScene*.unity*
 
 .DS_Store
 **/.DS_Store
+
+# Local/dev artifacts
+.vscode/
+Android_BackUpThisFolder_ButDontShipItWithYourGame/
+*_BurstDebugInformation_DoNotShip/
+*.slnx
